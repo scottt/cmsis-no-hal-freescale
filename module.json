@@ -1,6 +1,6 @@
 {
   "name": "cmsis-no-hal-freescale",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "CMSIS-CORE _WITHOUT_ any peripheral library or HAL for Freescale devices",
   "keywords": [
     "HAL",
@@ -20,7 +20,7 @@
       "type": "bsd-3-clause"
     }
   ],
-  "dependencies": { },
+  "dependencies": {},
   "targetDependencies": {
     "k64f": {
       "cmsis-no-hal-k64f": "^0.1.0"
